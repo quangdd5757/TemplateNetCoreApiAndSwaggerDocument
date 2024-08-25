@@ -50,10 +50,10 @@
 
 # kết quả
 - swagger mặc định
-![Swagger Default](/Docs/SwaggerBefore.png)
+![Swagger Default](/TemplateNetCoreApiAndSwaggerDocument/Docs/SwaggerBefore.png)
 
 - swagger sau khi đã update generate
-![Swagger After](/Docs/SwaggerAfter.png)
+![Swagger After](/TemplateNetCoreApiAndSwaggerDocument/Docs/SwaggerAfter.png)
 
 # các nội dung khác
 - Swagger Param Route nhiều lựa chọn [Link](https://medium.com/@niteshsinghal85/multiple-example-for-parameters-in-swagger-with-asp-net-core-c4f3aaf1ae9f)
